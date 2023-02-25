@@ -52,9 +52,6 @@ Install dependencies
 
 #pip install pandas
 
-
-
-To Run
 ```bash
 #streamlit run stock.py
 
